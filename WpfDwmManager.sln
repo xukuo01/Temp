@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDwmManager", "WpfDwmManager\WpfDwmManager.csproj", "{6841DFBD-2141-464D-99DB-D55721D7CCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDwmManager.Tests", "WpfDwmManager.Tests\WpfDwmManager.Tests.csproj", "{31012B2E-F0CE-4D43-8B1A-FE541CACF516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6841DFBD-2141-464D-99DB-D55721D7CCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6841DFBD-2141-464D-99DB-D55721D7CCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6841DFBD-2141-464D-99DB-D55721D7CCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6841DFBD-2141-464D-99DB-D55721D7CCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31012B2E-F0CE-4D43-8B1A-FE541CACF516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31012B2E-F0CE-4D43-8B1A-FE541CACF516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31012B2E-F0CE-4D43-8B1A-FE541CACF516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31012B2E-F0CE-4D43-8B1A-FE541CACF516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
