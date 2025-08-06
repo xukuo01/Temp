@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfDwmManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c4e0761d1c20d169be8e8b06212df009adfc15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7ab4a18fbf3c437b90ae42cf74f49c491c4dc86")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfDwmManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfDwmManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
