@@ -1,0 +1,36 @@
+{
+  "Layout": {
+    "MasterRatio": 0.55,
+    "WindowGap": 5,
+    "BorderWidth": 2,
+    "ShowBorders": true,
+    "GridColumns": 2,
+    "GridRows": 2
+  },
+  "HotKeys": {
+    "SwitchWindows": "Win+Tab",
+    "SetMaster": "Win+Shift+Return",
+    "FocusUp": "Win+K",
+    "FocusDown": "Win+J",
+    "ResizeLeft": "Win+H",
+    "ResizeRight": "Win+L",
+    "ToggleTiling": "Win+T",
+    "ToggleFloating": "Win+Space",
+    "ToggleFullscreen": "Win+F",
+    "CloseWindow": "Win+Q",
+    "ExitManager": "Win+Shift+C",
+    "MoveToNextMonitor": "Win+Shift+Right",
+    "MoveToPrevMonitor": "Win+Shift+Left"
+  },
+  "WindowFilterRules": [
+    "dwm.exe",
+    "winlogon.exe",
+    "csrss.exe",
+    "explorer.exe", 
+    "taskmgr.exe",
+    "WpfDwmManager.exe"
+  ],
+  "EnableMultiMonitor": true,
+  "AutoStartWithWindows": false,
+  "LogLevel": "Info"
+}
